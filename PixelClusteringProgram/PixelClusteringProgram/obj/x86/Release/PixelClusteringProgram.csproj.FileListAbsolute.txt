@@ -1,0 +1,5 @@
+C:\Users\MMALDZHA\AppData\Local\Temporary Projects\PixelClusteringProgram\bin\Release\PixelClusteringProgram.exe
+C:\Users\MMALDZHA\AppData\Local\Temporary Projects\PixelClusteringProgram\bin\Release\PixelClusteringProgram.pdb
+C:\Users\MMALDZHA\AppData\Local\Temporary Projects\PixelClusteringProgram\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MMALDZHA\AppData\Local\Temporary Projects\PixelClusteringProgram\obj\x86\Release\PixelClusteringProgram.exe
+C:\Users\MMALDZHA\AppData\Local\Temporary Projects\PixelClusteringProgram\obj\x86\Release\PixelClusteringProgram.pdb

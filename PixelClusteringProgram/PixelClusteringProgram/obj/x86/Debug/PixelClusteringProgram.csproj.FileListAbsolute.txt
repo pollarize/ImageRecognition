@@ -1,0 +1,11 @@
+C:\Users\MMALDZHA\AppData\Local\Temporary Projects\PixelClusteringProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MMALDZHA\AppData\Local\Temporary Projects\PixelClusteringProgram\bin\Debug\PixelClusteringProgram.exe
+C:\Users\MMALDZHA\AppData\Local\Temporary Projects\PixelClusteringProgram\bin\Debug\PixelClusteringProgram.pdb
+C:\Users\MMALDZHA\AppData\Local\Temporary Projects\PixelClusteringProgram\obj\x86\Debug\PixelClusteringProgram.exe
+C:\Users\MMALDZHA\AppData\Local\Temporary Projects\PixelClusteringProgram\obj\x86\Debug\PixelClusteringProgram.pdb
+C:\Users\MMALDZHA\documents\visual studio 2010\Projects\PixelClusteringProgram\PixelClusteringProgram\obj\x86\Debug\PixelClusteringProgram.exe
+C:\Users\MMALDZHA\documents\visual studio 2010\Projects\PixelClusteringProgram\PixelClusteringProgram\obj\x86\Debug\PixelClusteringProgram.pdb
+F:\Development\C#Dev\PixelClusteringProgram\PixelClusteringProgram\bin\Debug\PixelClusteringProgram.exe
+F:\Development\C#Dev\PixelClusteringProgram\PixelClusteringProgram\bin\Debug\PixelClusteringProgram.pdb
+F:\Development\C#Dev\PixelClusteringProgram\PixelClusteringProgram\obj\x86\Debug\PixelClusteringProgram.exe
+F:\Development\C#Dev\PixelClusteringProgram\PixelClusteringProgram\obj\x86\Debug\PixelClusteringProgram.pdb

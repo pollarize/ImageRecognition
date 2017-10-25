@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelClusteringProgram", "PixelClusteringProgram\PixelClusteringProgram.csproj", "{0AC401D1-8928-4B8A-9592-D0C47D53CE10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC401D1-8928-4B8A-9592-D0C47D53CE10}.Debug|x86.ActiveCfg = Debug|x86
+		{0AC401D1-8928-4B8A-9592-D0C47D53CE10}.Debug|x86.Build.0 = Debug|x86
+		{0AC401D1-8928-4B8A-9592-D0C47D53CE10}.Release|x86.ActiveCfg = Release|x86
+		{0AC401D1-8928-4B8A-9592-D0C47D53CE10}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
