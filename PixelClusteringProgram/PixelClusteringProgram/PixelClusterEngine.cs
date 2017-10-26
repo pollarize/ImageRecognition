@@ -318,10 +318,6 @@ namespace PixelClusteringProgram
                     centroids[i] = calculateNewCentroid(clusterMembers);
                 }
 
-                //if (clusterMembers.Count >= numberOfPixelsInCluster)
-                //{
-                //    centroids[i] = calculateNewCentroid(clusterMembers);
-                //}
             }
         }
 
